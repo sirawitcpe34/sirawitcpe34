@@ -66,7 +66,5 @@ I am a Computer Engineering student at KMUTT, interested in data analytics, mach
 
 <br/>  
 
-<br />
-
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
