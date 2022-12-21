@@ -60,7 +60,7 @@ I am a Computer Engineering student at KMUTT, interested in data analytics, mach
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirawitcpe34&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirawitcpe34&hide_border=true&layout=compact" align="left" style="width: 80%" />
 
 </td></tr></table>  
 
