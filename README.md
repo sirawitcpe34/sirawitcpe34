@@ -8,7 +8,6 @@
 <table><tr><td valign="top" width="33%">
 
 
-
 ### Data Analytics  
 <div align="center">  
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
@@ -20,7 +19,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### Website Development  
@@ -37,7 +35,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### Programming  
@@ -68,21 +65,18 @@
 </a>  
 </div>  
   
-
 <br/>  
 
 
 ## Github Stats  
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sirawitcpe34&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirawitcpe34&hide_border=true&layout=compact" align="right" /></div>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirawitcpe34&hide_border=true&layout=compact" align="left" />  
+</div
+<br/>  
 
 <br/>  
 
-
-<br/>  
-
-  
 
 <br/>  
 
