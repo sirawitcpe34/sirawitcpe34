@@ -54,24 +54,17 @@ I am a Computer Engineering student at KMUTT, interested in data analytics, mach
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sirawitcpe34&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="50%" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirawitcpe34&hide_border=true&layout=compact" align="center" style="width: 80%" />
 
 </td></tr></table>  
 
 <br/>  
-
-  
-<br/>  
-  
-
-<br/>  
-
 
 <br />
 
