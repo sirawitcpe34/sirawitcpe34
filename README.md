@@ -1,7 +1,4 @@
 ### <div align="center">My name is Sirawit Wattano. I am a Computer Engineering student at KMUTT, interested in data analytics, machine learning, and website development.</div>  
-  
-
-<br/>  
 
 
 ## My Skill Set  
@@ -33,6 +30,7 @@
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 </div>
+<br/>
 
 </td><td valign="top" width="33%">
 
