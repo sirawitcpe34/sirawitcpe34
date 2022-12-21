@@ -1,13 +1,8 @@
 ### <div align="center">My name is Sirawit Wattano. I am a Computer Engineering student at KMUTT, interested in data analytics, machine learning, and website development.</div>  
-  
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Data Analytics  
 <div align="center">  
@@ -20,8 +15,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Website Development  
 <div align="center">  
@@ -37,8 +30,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Programming  
 <div align="center">  
@@ -75,13 +66,10 @@
 ## Github Stats 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sirawitcpe34&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirawitcpe34&hide_border=true&layout=compact" align="left" />  
-
-<br/>  
+</div>
 
 <br/>
-</div>
 
 ----
 ## 
