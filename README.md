@@ -14,7 +14,7 @@
 </a>  
 </div>   
 <br/>  
-### <div align="center">My name is Sirawit Wattano. I am a Computer Engineering student at KMUTT, interested in data analytics, machine learning, and website development.</div>  
+## <div align="center">My name is Sirawit Wattano. I am a Computer Engineering student at KMUTT, interested in data analytics, machine learning, and website development.</div>  
 </br>
 
 ## My Skill Set  
